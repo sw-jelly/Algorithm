@@ -1,5 +1,4 @@
-# 백준 10803번 : 정사각형 만들기
-# 해결 안됨...
+# 백준 10803번 : 정사각형 만들기 !!미해결!!
 import sys
 
 n, m = map(int, sys.stdin.readline().split())
